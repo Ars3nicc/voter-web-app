@@ -5,9 +5,9 @@ This application uses significant voting/election procedure and applies the simi
 
 ## Features
 - Two-Factor Authentication (2FA) using OTP via SMS or email.
-- Multimaintenance
-- Machine learning for smart and automatic dissemination of ballot details
-- Blockchain API
+- Single Maintenance
+- Machine learning for smart and automatic dissemination of ballot details (experimental)
+- Centralized server 
 ### ***MORE DETAILS TO BE FOLLOWED***
 
 # References
